@@ -15,7 +15,7 @@ Focus of this Repository
 
 Development Engineer who is checking out this code should be able to learn these topics,
 
-1. Handling the translations using deafult Locale provided by Spring framework
+1. Handling the translations using default Locale provided by Spring framework
 
 ----
 Note
